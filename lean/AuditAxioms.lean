@@ -1,0 +1,20 @@
+import StronglyPolyLP
+
+#print axioms StronglyPolyLP.dot_comm
+#print axioms StronglyPolyLP.dot_vadd_right
+#print axioms StronglyPolyLP.dot_vsub_right
+#print axioms StronglyPolyLP.dot_nonneg_of_allNonneg
+#print axioms StronglyPolyLP.complementary_head_zero
+#print axioms StronglyPolyLP.strict_complementary_partition
+#print axioms StronglyPolyLP.lp_weak_duality
+#print axioms StronglyPolyLP.lp_optimality_soundness
+#print axioms StronglyPolyLP.trichotomy_dual_excludes_unbounded
+#print axioms StronglyPolyLP.trichotomy_feasible_excludes_farkas
+#print axioms StronglyPolyLP.price_rescaling_dot_identity
+#print axioms StronglyPolyLP.price_rescaling_preserves_orthogonality
+#print axioms StronglyPolyLP.convex_qp_kkt_global_optimality
+#print axioms StronglyPolyLP.monotone_lcp_zero_gap_optimal
+#print axioms StronglyPolyLP.mean_payoff_cycle_upper_bound
+#print axioms StronglyPolyLP.mean_payoff_saddle_uniqueness
+#print axioms StronglyPolyLP.circuit_imbalance_geometric_growth
+#print axioms StronglyPolyLP.strongly_vs_weakly_poly_separation

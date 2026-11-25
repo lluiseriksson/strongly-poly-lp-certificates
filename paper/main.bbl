@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{ehrenfeucht1979positional}
+Andrzej Ehrenfeucht and Jan Mycielski.
+\newblock Positional strategies for mean payoff games.
+\newblock {\em International Journal of Game Theory}, 8:109--113, 1979.
+
+\bibitem{khachiyan1979polynomial}
+Leonid~G. Khachiyan.
+\newblock A polynomial algorithm in linear programming.
+\newblock {\em Doklady Akademii Nauk SSSR}, 244(5):1093--1096, 1979.
+
+\bibitem{openai2026lp}
+{OpenAI}.
+\newblock Strongly polynomial linear programming.
+\newblock Preprint, \url{https://github.com/openai/math}, November 2026.
+
+\bibitem{smale1998mathematical}
+Steve Smale.
+\newblock Mathematical problems for the next century.
+\newblock {\em The Mathematical Intelligencer}, 20(2):7--15, 1998.
+
+\bibitem{tardos1986strongly}
+{\'E}va Tardos.
+\newblock A strongly polynomial algorithm to solve combinatorial linear
+  programs.
+\newblock {\em Operations Research}, 34(2):250--256, 1986.
+
+\bibitem{zwick1996complexity}
+Uri Zwick and Mike Paterson.
+\newblock The complexity of mean payoff games on graphs.
+\newblock {\em Theoretical Computer Science}, 158(1--2):343--359, 1996.
+
+\end{thebibliography}

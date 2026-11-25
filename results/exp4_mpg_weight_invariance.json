@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "log10_W": 1,
+      "bit_length_W": 4,
+      "exact_value": "32/3",
+      "verify_ms": 0.112
+    },
+    {
+      "log10_W": 2,
+      "bit_length_W": 7,
+      "exact_value": "302/3",
+      "verify_ms": 0.096
+    },
+    {
+      "log10_W": 4,
+      "bit_length_W": 14,
+      "exact_value": "30002/3",
+      "verify_ms": 0.091
+    },
+    {
+      "log10_W": 8,
+      "bit_length_W": 27,
+      "exact_value": "300000002/3",
+      "verify_ms": 0.087
+    },
+    {
+      "log10_W": 12,
+      "bit_length_W": 40,
+      "exact_value": "3000000000002/3",
+      "verify_ms": 0.089
+    },
+    {
+      "log10_W": 18,
+      "bit_length_W": 60,
+      "exact_value": "3000000000000000002/3",
+      "verify_ms": 0.089
+    },
+    {
+      "log10_W": 24,
+      "bit_length_W": 80,
+      "exact_value": "3000000000000000000000002/3",
+      "verify_ms": 0.088
+    }
+  ]
+}

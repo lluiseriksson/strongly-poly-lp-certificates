@@ -1,0 +1,30 @@
+{
+  "schema": "LP-TRICHOTOMY-CERT-1.0",
+  "mode": "lp_unbounded_or_farkas",
+  "submode": "farkas_infeasible",
+  "name": "lp_farkas_infeasible_2d",
+  "A": [
+    [
+      "1",
+      "1"
+    ],
+    [
+      "-1",
+      "0"
+    ],
+    [
+      "0",
+      "-1"
+    ]
+  ],
+  "b": [
+    "1",
+    "-1",
+    "-1"
+  ],
+  "y_farkas": [
+    "1",
+    "1",
+    "1"
+  ]
+}

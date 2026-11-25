@@ -1,0 +1,196 @@
+{
+  "rows": [
+    {
+      "n": 3,
+      "M": 10,
+      "log10_kappa": 2.0,
+      "bit_length_opt": 6,
+      "verify_ms": 0.166,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 3,
+      "M": 1000,
+      "log10_kappa": 6.0,
+      "bit_length_opt": 19,
+      "verify_ms": 0.151,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 3,
+      "M": 1000000,
+      "log10_kappa": 12.0,
+      "bit_length_opt": 39,
+      "verify_ms": 0.15,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 3,
+      "M": 1000000000000,
+      "log10_kappa": 24.0,
+      "bit_length_opt": 79,
+      "verify_ms": 0.15,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 4,
+      "M": 10,
+      "log10_kappa": 3.0,
+      "bit_length_opt": 9,
+      "verify_ms": 0.21,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 4,
+      "M": 1000,
+      "log10_kappa": 9.0,
+      "bit_length_opt": 29,
+      "verify_ms": 0.208,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 4,
+      "M": 1000000,
+      "log10_kappa": 18.0,
+      "bit_length_opt": 59,
+      "verify_ms": 0.209,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 4,
+      "M": 1000000000000,
+      "log10_kappa": 36.0,
+      "bit_length_opt": 119,
+      "verify_ms": 0.216,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 6,
+      "M": 10,
+      "log10_kappa": 5.0,
+      "bit_length_opt": 16,
+      "verify_ms": 0.376,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 6,
+      "M": 1000,
+      "log10_kappa": 15.0,
+      "bit_length_opt": 49,
+      "verify_ms": 0.42,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 6,
+      "M": 1000000,
+      "log10_kappa": 30.0,
+      "bit_length_opt": 99,
+      "verify_ms": 0.383,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 6,
+      "M": 1000000000000,
+      "log10_kappa": 60.0,
+      "bit_length_opt": 199,
+      "verify_ms": 0.385,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 8,
+      "M": 10,
+      "log10_kappa": 7.0,
+      "bit_length_opt": 23,
+      "verify_ms": 0.588,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 8,
+      "M": 1000,
+      "log10_kappa": 21.0,
+      "bit_length_opt": 69,
+      "verify_ms": 0.594,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 8,
+      "M": 1000000,
+      "log10_kappa": 42.0,
+      "bit_length_opt": 139,
+      "verify_ms": 0.594,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 8,
+      "M": 1000000000000,
+      "log10_kappa": 84.0,
+      "bit_length_opt": 279,
+      "verify_ms": 0.582,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 12,
+      "M": 10,
+      "log10_kappa": 11.0,
+      "bit_length_opt": 36,
+      "verify_ms": 1.133,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 12,
+      "M": 1000,
+      "log10_kappa": 33.0,
+      "bit_length_opt": 109,
+      "verify_ms": 1.154,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 12,
+      "M": 1000000,
+      "log10_kappa": 66.0,
+      "bit_length_opt": 219,
+      "verify_ms": 1.147,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 12,
+      "M": 1000000000000,
+      "log10_kappa": 132.0,
+      "bit_length_opt": 438,
+      "verify_ms": 1.384,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 16,
+      "M": 10,
+      "log10_kappa": 15.0,
+      "bit_length_opt": 49,
+      "verify_ms": 1.946,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 16,
+      "M": 1000,
+      "log10_kappa": 45.0,
+      "bit_length_opt": 149,
+      "verify_ms": 1.919,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 16,
+      "M": 1000000,
+      "log10_kappa": 90.0,
+      "bit_length_opt": 298,
+      "verify_ms": 1.915,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    },
+    {
+      "n": 16,
+      "M": 1000000000000,
+      "log10_kappa": 180.0,
+      "bit_length_opt": 597,
+      "verify_ms": 1.954,
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL"
+    }
+  ]
+}

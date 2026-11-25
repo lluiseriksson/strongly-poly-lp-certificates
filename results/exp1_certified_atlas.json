@@ -1,0 +1,248 @@
+{
+  "count": 16,
+  "rows": [
+    {
+      "file": "lp_staircase_n3_M10.cert.json",
+      "mode": "lp_strict_complementary_opt",
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+      "time_ms": 0.262,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_strict_complementary_opt",
+        "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+        "m": 6,
+        "n": 3,
+        "exact_optimum": "100",
+        "active_support_size": 3,
+        "slack_support_size": 3
+      }
+    },
+    {
+      "file": "lp_staircase_n4_M100.cert.json",
+      "mode": "lp_strict_complementary_opt",
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+      "time_ms": 0.243,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_strict_complementary_opt",
+        "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+        "m": 8,
+        "n": 4,
+        "exact_optimum": "1000000",
+        "active_support_size": 4,
+        "slack_support_size": 4
+      }
+    },
+    {
+      "file": "lp_staircase_n5_M1000.cert.json",
+      "mode": "lp_strict_complementary_opt",
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+      "time_ms": 0.326,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_strict_complementary_opt",
+        "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+        "m": 10,
+        "n": 5,
+        "exact_optimum": "1000000000000",
+        "active_support_size": 5,
+        "slack_support_size": 5
+      }
+    },
+    {
+      "file": "lp_staircase_n6_M10000.cert.json",
+      "mode": "lp_strict_complementary_opt",
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+      "time_ms": 0.41,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_strict_complementary_opt",
+        "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+        "m": 12,
+        "n": 6,
+        "exact_optimum": "100000000000000000000",
+        "active_support_size": 6,
+        "slack_support_size": 6
+      }
+    },
+    {
+      "file": "lp_staircase_n8_M1024.cert.json",
+      "mode": "lp_strict_complementary_opt",
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+      "time_ms": 0.628,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_strict_complementary_opt",
+        "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+        "m": 16,
+        "n": 8,
+        "exact_optimum": "1180591620717411303424",
+        "active_support_size": 8,
+        "slack_support_size": 8
+      }
+    },
+    {
+      "file": "lp_rational_2x4.cert.json",
+      "mode": "lp_strict_complementary_opt",
+      "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+      "time_ms": 0.13,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_strict_complementary_opt",
+        "verdict": "LP_STRICT_COMPLEMENTARY_OPTIMAL",
+        "m": 4,
+        "n": 2,
+        "exact_optimum": "27",
+        "active_support_size": 2,
+        "slack_support_size": 2
+      }
+    },
+    {
+      "file": "lp_unbounded_ray_3d.cert.json",
+      "mode": "lp_unbounded_or_farkas",
+      "verdict": "LP_UNBOUNDED_CERTIFIED",
+      "time_ms": 0.092,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_unbounded_or_farkas",
+        "verdict": "LP_UNBOUNDED_CERTIFIED",
+        "m": 3,
+        "n": 3,
+        "ray_slope": "3"
+      }
+    },
+    {
+      "file": "lp_unbounded_staircase_4d.cert.json",
+      "mode": "lp_unbounded_or_farkas",
+      "verdict": "LP_UNBOUNDED_CERTIFIED",
+      "time_ms": 0.123,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_unbounded_or_farkas",
+        "verdict": "LP_UNBOUNDED_CERTIFIED",
+        "m": 4,
+        "n": 4,
+        "ray_slope": "1000"
+      }
+    },
+    {
+      "file": "lp_farkas_infeasible_2d.cert.json",
+      "mode": "lp_unbounded_or_farkas",
+      "verdict": "LP_FARKAS_INFEASIBLE_CERTIFIED",
+      "time_ms": 0.075,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_unbounded_or_farkas",
+        "verdict": "LP_FARKAS_INFEASIBLE_CERTIFIED",
+        "m": 3,
+        "n": 2,
+        "rank_A": 2,
+        "support_size": 3,
+        "farkas_value": "-1"
+      }
+    },
+    {
+      "file": "lp_farkas_infeasible_3d.cert.json",
+      "mode": "lp_unbounded_or_farkas",
+      "verdict": "LP_FARKAS_INFEASIBLE_CERTIFIED",
+      "time_ms": 0.098,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "lp_unbounded_or_farkas",
+        "verdict": "LP_FARKAS_INFEASIBLE_CERTIFIED",
+        "m": 4,
+        "n": 3,
+        "rank_A": 3,
+        "support_size": 4,
+        "farkas_value": "-1"
+      }
+    },
+    {
+      "file": "qp_kkt_2d_active.cert.json",
+      "mode": "convex_qp_kkt_exact",
+      "verdict": "CONVEX_QP_KKT_OPTIMAL",
+      "time_ms": 0.124,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "convex_qp_kkt_exact",
+        "verdict": "CONVEX_QP_KKT_OPTIMAL",
+        "m": 3,
+        "n": 2,
+        "exact_optimum": "-11",
+        "positive_pivots": 2
+      }
+    },
+    {
+      "file": "qp_kkt_3d_singular_psd.cert.json",
+      "mode": "convex_qp_kkt_exact",
+      "verdict": "CONVEX_QP_KKT_OPTIMAL",
+      "time_ms": 0.165,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "convex_qp_kkt_exact",
+        "verdict": "CONVEX_QP_KKT_OPTIMAL",
+        "m": 3,
+        "n": 3,
+        "exact_optimum": "-5",
+        "positive_pivots": 2
+      }
+    },
+    {
+      "file": "qp_kkt_4d_correlated.cert.json",
+      "mode": "convex_qp_kkt_exact",
+      "verdict": "CONVEX_QP_KKT_OPTIMAL",
+      "time_ms": 0.252,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "convex_qp_kkt_exact",
+        "verdict": "CONVEX_QP_KKT_OPTIMAL",
+        "m": 5,
+        "n": 4,
+        "exact_optimum": "-9",
+        "positive_pivots": 4
+      }
+    },
+    {
+      "file": "mpg_4v_zero_value.cert.json",
+      "mode": "mean_payoff_game_saddle_exact",
+      "verdict": "MEAN_PAYOFF_VALUE_CERTIFIED",
+      "time_ms": 0.092,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "mean_payoff_game_saddle_exact",
+        "verdict": "MEAN_PAYOFF_VALUE_CERTIFIED",
+        "num_vertices": 4,
+        "num_edges": 8,
+        "exact_value": "0"
+      }
+    },
+    {
+      "file": "mpg_4v_fractional_value.cert.json",
+      "mode": "mean_payoff_game_saddle_exact",
+      "verdict": "MEAN_PAYOFF_VALUE_CERTIFIED",
+      "time_ms": 0.084,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "mean_payoff_game_saddle_exact",
+        "verdict": "MEAN_PAYOFF_VALUE_CERTIFIED",
+        "num_vertices": 4,
+        "num_edges": 8,
+        "exact_value": "5/2"
+      }
+    },
+    {
+      "file": "mpg_6v_large_weights.cert.json",
+      "mode": "mean_payoff_game_saddle_exact",
+      "verdict": "MEAN_PAYOFF_VALUE_CERTIFIED",
+      "time_ms": 0.113,
+      "details": {
+        "schema": "LP-TRICHOTOMY-CERT-1.0",
+        "mode": "mean_payoff_game_saddle_exact",
+        "verdict": "MEAN_PAYOFF_VALUE_CERTIFIED",
+        "num_vertices": 6,
+        "num_edges": 12,
+        "exact_value": "1000001/3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+[project]
+name = "strongly-poly-lp-certificates"
+version = "1.0.0"
+description = "Exact-Q Primal-Dual Trichotomy, Circuit-Imbalance Amplification, Convex QP KKT, and Mean-Payoff Game Certificates with Zero-Dependency Lean 4 Proofs"
+authors = [{ name = "Lluis Eriksson" }]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = []
